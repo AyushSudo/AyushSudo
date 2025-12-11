@@ -1,19 +1,14 @@
-## Hi there 👋
-My name is Ayushman Singh and I am Currently in 9th grade from India.
+## Hi there 👋, I'm Ayushman
 
-<!--
-**AyushSudo/AyushSudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀 Who Am I?
+I am Currently a Student in 9th grade
 
-Here are some ideas to get you started:
+##💼 What I'm Currently Learning/Working On
+I am Currently Learning Harvard University Cs50 Course 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-Cs50
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-My Email - byte112512@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🛠️ Tools & Technologies
+Languages: C 
+
+
+##📫 How to Reach Me
+Email: byte112512@gmail.com
