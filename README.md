@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Ayushman
+# Hi there 👋, I'm Ayushman
 
-##🚀 Who Am I?
+## 🚀 Who Am I?
 I am Currently a Student in 9th grade
 
-##💼 What I'm Currently Learning/Working On
+## 💼 What I'm Currently Learning/Working On
 I am Currently Learning Harvard University Cs50 Course 
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Languages: C 
 
 
-##📫 How to Reach Me
+## 📫 How to Reach Me
 Email: byte112512@gmail.com
