@@ -23,7 +23,6 @@
 </div> 
 
 ## Projects
-### Featured Projects
 
 **Grade Calculator (C)**
 - A simple CLI program to calculate student grades.
