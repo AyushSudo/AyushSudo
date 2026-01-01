@@ -1,9 +1,9 @@
 # Hi, I’m Ayushman. A Student learning computer science, currently focused on C and problem solving.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hermit&pause=1000&color=F78282&center=true&vCenter=true&width=435&lines=A+Computer+Science+Student;Currently+Studying+Harvard+CS50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Currently+Learning+C)](https://git.io/typing-svg)
 
 ## 🚀 Who Am I?
 - A Student interested in computer science.
-- Currently learning C through Harvard’s CS50.
+- Currently learning C.
 - Focused on fundamentals, problem solving, and writing clean code.
 
 ## 🌐 Socials:
